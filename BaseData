@@ -1,0 +1,25 @@
+{ 
+  "channels" : [
+    {
+      "title" : "미스터트롯 무료듣기",
+      "fbNativeInterval" : "3",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "playlistId" : "UUskIKQGpjI5sG2ZLtWLYSmw",
+      "memberNo" : "",
+      "seriesNo" : "",
+      "item" : [
+          { "title" : "미스터트롯", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "보관함", "id" : "2", "img" : "", "sort" : "2"}
+      ]
+    }    
+  ]
+}
